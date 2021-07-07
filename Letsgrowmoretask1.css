@@ -1,0 +1,80 @@
+*{
+	box-sizing: border-box;
+	margin:0;
+	padding: 0;
+}
+body{
+  width:1000px;
+  background-image: url(http://www.pixelstalk.net/wp-content/uploads/2016/05/Light-Pink-Wallpaper-HD.jpg);
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+  background-height:10000px;
+  font-size: 18px;
+  font-family: calibri,Arial;
+
+}
+h1{  color:blue;
+	font-size:30px;
+	margin-bottom: 20px;
+	
+}
+h2{  color:red;
+	font-size:20px;
+	margin-bottom: 10px;
+	
+}
+img{
+	height:500;
+	width:100%;
+}
+
+#footer_image{
+	height:500px;
+	width:500px;
+}
+.header {
+
+
+	height:70px;
+	width:400px;
+	background-color:powderblue;
+
+}
+.article{
+	height:200px;
+	width:200px;
+	background-color:coral;
+	margin:10px 10px 10px 0px;
+	padding:10px;
+	box-sizing: border-box;
+   display: inline-block;
+   float:left;
+	
+
+}
+.first_div{
+	height:50px;
+	width:100px;
+	background-color:coral;
+	margin:10px;
+	padding:20px;
+	box-sizing: border-box;
+
+}
+.other_posts{
+	
+	width:130px;
+	height:200px;
+	display: inline-block;
+	margin:10px;
+}
+
+.footer {
+
+
+	height:70px;
+	width:400px;
+	background-color:powderblue;
+
+}
+
