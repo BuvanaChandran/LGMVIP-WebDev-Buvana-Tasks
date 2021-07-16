@@ -1,0 +1,43 @@
+/***big tablets to smaller laptop screens****/
+
+@media only screen and(max-width:1200px){
+	html,
+	body{
+		     font-size:14px;
+	}
+
+	.about-para{
+		margin-bottom:20px;
+	}
+
+}
+
+
+
+/***smaller tablets to largest laptop screens****/
+
+@media only screen and(max-width:1023px){
+
+	html,
+	body{
+		font-size:12px;
+		
+	}
+	
+
+}
+
+
+
+/***larger phones to smaller tablet screens***/
+
+@media only screen and(max-width:767px){
+     
+}
+
+
+
+/****smaller to larger mobile phones****/
+@media only screen and(max-width:479px){
+	
+}
